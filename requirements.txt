@@ -1,2 +1,6 @@
-python-telegram-bot>=20.0
-yt-dlp
+aiogram>=3.0
+requests
+beautifulsoup4
+aiohttp
+transformers
+torch
