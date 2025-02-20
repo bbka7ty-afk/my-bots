@@ -11,7 +11,7 @@ from transformers import pipeline
 import aiohttp
 
 # Константы
-API_TOKEN = 'YOUR_API_TOKEN_HERE'  # Замените на ваш токен
+API_TOKEN = '8026415349:AAFEa9tHgFXlkYVM-k7NLI_5hjRMbYa_jTQ'  # Замените на ваш токен
 MOVIE_URL = 'https://thegirl.ru/articles/100-filmov-kotorye-stoit-posmotret-kazhdomu/'
 MOTIVATION_URL = "https://vc.ru/flood/797499-podborka-100-motivacionnyh-fraz-na-vse-sluchai-zhizni-mozhno-prochitat-vse-100-srazu"
 PARSE_MODE = 'MarkdownV2'
